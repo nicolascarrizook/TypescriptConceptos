@@ -1,0 +1,2 @@
+# TypescriptConceptos
+Conceptos de typescript
